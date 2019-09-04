@@ -1,0 +1,5 @@
+# action, protocol, src ip, src port, directio, dst ip, dst port, (message, sid)
+    alert icmp any any <> any any (msdg:"This is a ping!"; sid: 1000001;)
+        any refers to any ip address and any port 
+        the double arrows mean either direction 
+        can use a bang to say "anything but this range of ips"
