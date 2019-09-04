@@ -2,7 +2,7 @@
 
 ## SQL Injection 
 ### Developing an Incident Communications Plan (Activity 5.3)
- ``` You are the CSIRT leader for a major ecommerce website, and you are currently responding to a security incident where you believe attackers used a SQL injection attack to steal transaction records from your backend database. Currently, only the core CSIRT members are responding. ```
+ > You are the CSIRT leader for a major ecommerce website, and you are currently responding to a security incident where you believe attackers used a SQL injection attack to steal transaction records from your backend database. Currently, only the core CSIRT members are responding. 
 
 * Develop a communication plan that describes the nature, timing, and audiences for communications to the internal and external stakeholders that you believe need to be notified.
 
