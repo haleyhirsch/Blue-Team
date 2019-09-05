@@ -17,3 +17,35 @@
 
 <u>External</u>
 * Have communications lead contact PR team to create email to push out to entire customer base - general and vague 
+
+## Elections
+> You are now CSIRT teams responsible for defending our US Elections against cyber attack!
+
+Start by crafting a cyber incident scenario with regards to US Elections
+* Identify the attackers, their objectives, and how they successfully conduct the attack. 
+  * nation state, Russia
+  * they want to influence the results of the election so it is more favorable to their country
+  * attacked rivals - hacked DNC , Democratic presidential candidate emails & congressional emails
+  * used cryptocurrency for payment method
+  * forwarded acquired information to Wikileaks
+  * sent phishing emails to gain credentials,
+* What information do they change or steal? What are their attack vectors? 
+  * information stolen - credentials, emails
+  * vectors - phishing emails, advertising
+* How do they escalate privileges, maintain persistence, and pivot within your networks? 
+
+* Map out various actions according to the attacker killchains we've looked at in class.
+
+> Here's one such incident: https://www.npr.org/2019/05/14/723215498/florida-governor-says-russian-hackers-breached-two-florida-counties-in-2016
+
+Next, tell the story of the defensive response
+* Who reported something wrong, or how did the detection teams first learn about the attack?
+  * detection/alert happened when the emails were dumped on Wikileaks
+* How did the first responder analyze and investigate the issue?
+* How did the first responders escalate the issues, and who did they escalate to?
+* Who is a part of the CSIRT? (roles and titles mainly, this doesn't have to be named individuals)
+* How did the team communicate/coordinate?
+* What are the steps that the team took to contain, eradicate, and recover from the incident?
+
+> Finally, look at how an expert does the same!
+Take a look at this template, and related materials. Compare your communications responses to their checklist. Did you think of the same things? What did you not think of?
